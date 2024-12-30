@@ -1,7 +1,3 @@
-Certainly! Below is the updated **README** file that includes the new models you mentioned:
-
----
-
 # Multiple Sclerosis Classification - Machine Learning Algorithms Comparison
 
 ## Overview
